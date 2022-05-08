@@ -1,0 +1,1 @@
+print("hello bhai\U0001F92B you are the best\U0001F60D bai in the worl \U0001F604")

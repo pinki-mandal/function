@@ -1,0 +1,11 @@
+a=[1,2,3,4,5,6]
+index1=a.index(1)
+index2=a.index(2)
+index3=a.index(3)
+index4=a.index(4)
+index5=a.index(5)
+index6=a.index(6)
+a[index1],a[index2]=a[index2],a[index1]
+a[index3],a[index4]=a[index4],a[index3]
+a[index5],a[index6]=a[index6],a[index5]
+print(a)
